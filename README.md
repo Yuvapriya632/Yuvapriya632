@@ -1,19 +1,12 @@
-### Hi there 👋
+[![MasterHead](https://philippe.bourgau.net/imgs/2015-08-19-mining-github-for-new-hires/github.png)]
+<h1 align="center">Hi 👋, I'm KHOLIVOX...</h1>
+<h2 style="color:blue"align="center">I AM A DATA SCIENTIST...</h2>
+<img align="right" alt="coding" width="400" src="https://as2.ftcdn.net/v2/jpg/03/06/38/39/1000_F_306383932_9OL6TW7bfgqJoqpdujhurbtFeWbzKiyK.jpg">
+ 
+# 💫 About Me:
+- 🔭 I’m currently working on MACHINE LEARNING<br><br>- 🌱 I’m currently learning DJANGO<br><br>- 👯 I’m looking to collaborate on DATA ANALYSE<br><br>- 🤝 I’m looking for help with DATA SCIENCE<br><br>- 👨‍💻 All of my projects are available at [https://github.com/kholivox](https://github.com/kholivox)<br><br>- 💬 Ask me about FINAL YEAR PROJECT<br><br>- 📫 How to reach me codinguniverse28@gmail.com
 
-<!--
-**Yuvapriya632/Yuvapriya632** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yuva-priya-s-323b0a228) 
