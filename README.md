@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://as2.ftcdn.net/v2/jpg/03/06/38/39/1000_F_306383932_9OL6TW7bfgqJoqpdujhurbtFeWbzKiyK.jpg">
  
 # 💫 About Me:
-- 🔭 I’m currently Student at SNS Collage OF Engineering<br><br>- 🌱 I’m currently learning Arificial Indelligence And Data Science<br><br>- 👯 I’m looking to collaborate on DATA ANALYSE<br><br>- 🤝 I’m looking for help with Business Analytics <br><br>- 👨‍💻 All of my projects are available at https://github.com/Yuvapriya632 <br><br>- 📫 How to reach me yuvapriyasankar632@gmail.com
+- 🔭 Recent graduated at SNS Collage OF Engineering<br><br>- 🌱 I’m currently learning Arificial Indelligence And Data Science<br><br>- 👯 I’m looking to collaborate on DATA ANALYSE<br><br>- 🤝 I’m looking for help with Business Analytics <br><br>- 👨‍💻 All of my projects are available at https://github.com/Yuvapriya632 <br><br>- 📫 How to reach me yuvapriyasankar632@gmail.com
 
 
 
