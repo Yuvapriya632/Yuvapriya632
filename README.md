@@ -17,7 +17,6 @@
 
 ## 🧠 AI & ML Expertise:
 - Machine Learning Algorithms (Regression, Classification, Clustering)
-- Deep Learning (CNN, ANN, NLP Models)
 - Model Evaluation & Optimization
 - Feature Engineering
 - Data Preprocessing & Visualization
