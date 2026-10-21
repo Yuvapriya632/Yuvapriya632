@@ -13,7 +13,7 @@ Currently, I am pursuing my **M.Tech in Artificial Intelligence, Machine Learnin
 - 💼 **Profession:** AI & ML Engineer
 - 🎓 **Postgraduate Studies:** M.Tech in AI, ML & Data Science — IIIT Kottayam
 - 🎓 **Undergraduate Degree:** B.Tech in Artificial Intelligence and Data Science
-- 🤖 **Technical Interests:** AI & Machine Learning Engineer,Data Analytics , Data Science , Deep Learning
+- 🤖 **Technical Interests:** AI & Machine Learning , Data Analytics , Data Science , Deep Learning
 - 📊 **Data Expertise:** Data Analysis, EDA & Data Visualization
 - 🚀 **Goal:** Building scalable, practical AI-powered products
 - 🤝 **Collaboration:** Open to AI/ML and Data Science projects
