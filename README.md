@@ -44,6 +44,99 @@ Graduated ( 2024 )
 - Data Preprocessing & Visualization
 - Model Deployment Basics
 
+--- 
+
+## 🧠 Technical Skills
+
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="SQL"/>
+</p>
+
+- Python
+- SQL
+
+### Data Science & Analytics
+
+- Pandas and NumPy
+- Data Cleaning and Preprocessing
+- Exploratory Data Analysis (EDA)
+- Statistical Analysis
+- Data Visualization using Matplotlib and Plotly
+- Data Interpretation and Insights
+
+### Machine Learning & Artificial Intelligence
+
+- Supervised and Unsupervised Learning
+- Regression and Classification
+- Clustering Algorithms
+- Feature Engineering
+- Model Evaluation and Optimization
+- Predictive Modeling
+- Deep Learning Fundamentals
+- Generative AI and Large Language Models (LLMs)
+
+### Frameworks & Libraries
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,django" alt="TensorFlow and Django"/>
+</p>
+
+- Scikit-learn
+- TensorFlow and Keras
+- Pandas and NumPy
+- Django and Django REST Framework
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and VS Code"/>
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="48" alt="Jupyter Notebook"/>
+</p>
+
+- Git and GitHub
+- Jupyter Notebook
+- Visual Studio Code
+- REST API Integration
+- Machine Learning Model Deployment
+
+---
+
+## 🚀 Projects & Development
+
+I focus on building practical solutions that combine machine learning, data analysis, and application development.
+
+### Areas of Work
+
+- 🤖 **Machine Learning:** Predictive analytics, classification, and regression models.
+- 📊 **Data Science:** Data preprocessing, exploratory analysis, and visualization.
+- 🎬 **AI-Powered Applications:** Developing AI-based video generation and intelligent application features.
+- 🌐 **Model Integration:** Integrating ML models with web applications and REST APIs.
+- 🧠 **Generative AI:** Exploring LLMs and AI-powered content generation.
+
+Explore my repositories for source code, implementations, and project development:
+
+<p>
+  <a href="https://github.com/Yuvapriya632">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20Repositories-181717?style=for-the-badge&logo=github" alt="Explore GitHub Repositories"/>
+  </a>
+  <a href="https://www.kaggle.com/yuvashrisankar">
+    <img src="https://img.shields.io/badge/Kaggle-Explore%20Work-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Explore Kaggle"/>
+  </a>
+</p>
+
+---
+
+## 🎯 Current Learning Focus
+
+- Advanced Machine Learning and Deep Learning
+- Large Language Models (LLMs)
+- Generative AI Applications
+- Model Optimization and Deployment
+- MLOps Fundamentals
+- Scalable AI Product Development
+
 ---
 
 ## 🌐 Connect with Me
@@ -62,23 +155,6 @@ Graduated ( 2024 )
     <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="45" alt="Kaggle"/>
   </a>
 </p>
-
----
-
-## 💻 Tech Stack
-
-🐍 Python | 📊 Pandas | 🔢 NumPy | 📈 Matplotlib | 📉 Plotly  
-🤖 Scikit-Learn | 🔥 TensorFlow | 🧠 Deep Learning  
-🗄️ SQL | 🔧 Git & GitHub
-
----
-
-## 🎯 Current Focus
-
-- Advanced Deep Learning Architectures
-- LLMs & Generative AI
-- MLOps & Model Deployment
-- Real-world AI Product Development
 
 ---
 
