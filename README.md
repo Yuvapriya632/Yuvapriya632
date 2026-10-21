@@ -13,7 +13,7 @@ Currently, I am pursuing my **M.Tech in Artificial Intelligence, Machine Learnin
 - 💼 **Profession:** AI & ML Engineer
 - 🎓 **Postgraduate Studies:** M.Tech in AI, ML & Data Science — IIIT Kottayam
 - 🎓 **Undergraduate Degree:** B.Tech in Artificial Intelligence and Data Science
-- 🤖 **Technical Interests:** Machine Learning, Deep Learning & Generative AI
+- 🤖 **Technical Interests:** AI & Machine Learning Engineer,Data Analytics , Data Science , Deep Learning
 - 📊 **Data Expertise:** Data Analysis, EDA & Data Visualization
 - 🚀 **Goal:** Building scalable, practical AI-powered products
 - 🤝 **Collaboration:** Open to AI/ML and Data Science projects
@@ -117,14 +117,17 @@ I focus on building practical solutions that combine machine learning, data anal
 
 Explore my repositories for source code, implementations, and project development:
 
-<p>
-  <a href="https://github.com/Yuvapriya632">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20Repositories-181717?style=for-the-badge&logo=github" alt="Explore GitHub Repositories"/>
+
+<p align="left">
+  <a href="https://github.com/Yuvapriya632" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
   </a>
-  <a href="https://www.kaggle.com/yuvashrisankar">
-    <img src="https://img.shields.io/badge/Kaggle-Explore%20Work-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Explore Kaggle"/>
+  &nbsp;&nbsp;
+  <a href="https://www.kaggle.com/yuvashrisankar" target="_blank">
+    <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="45" alt="Kaggle"/>
   </a>
 </p>
+
 
 ---
 
