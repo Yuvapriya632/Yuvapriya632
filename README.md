@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Yuva Priya</h1>
 <h2 align="center">🚀 Artificial Intelligence & Machine Learning Engineer</h2>
 
-<img align="right" alt="AI Coding" width="400" src="https://as2.ftcdn.net/v2/jpg/03/06/38/39/1000_F_306383932_9OL6TW7bfgqJoqpdujhurbtFeWbzKiyK.jpg">
+
 
 ## 👩‍💻 About Me
 
